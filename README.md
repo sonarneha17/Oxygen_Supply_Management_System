@@ -1,4 +1,4 @@
-# Oxygen_Management_System
+# Oxygen_Supply_Management_System
 
 This is our second year group project of Database Management System.
 We had only done backend work for this project using MySQL. 
